@@ -64,8 +64,6 @@ On **Day 02**, I explored how to **compare algorithm efficiency** using **orders
 
 Included a graph to visually compare the growth of common time complexities with respect to input size.
 
-![Graph of Time Complexities](./time_complexity_graph.png)
-
 ---
 
 ### 📄 Notes
