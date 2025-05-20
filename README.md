@@ -80,3 +80,55 @@ I've created a well-structured PDF with clear examples and a visual chart.
 
 ### 📅 Next: Day 03 - Searching in a list
 
+## 🔍 Topic: Searching in a List & Basic Sorting Algorithms
+
+### 📖 Summary
+
+Today I studied and implemented basic searching and sorting algorithms. These are essential tools for efficient data manipulation and understanding algorithm complexity.
+
+---
+
+### 🔎 Searching Algorithms
+
+1. **Linear Search** - Scans each element until the target is found.  
+   🔹 Time: O(n)  
+   🔹 Space: O(1)
+
+2. **Binary Search** - Efficient search for sorted lists using divide-and-conquer.  
+   🔹 Time: O(log n)  
+   🔹 Space: O(1)
+
+---
+
+### 🔃 Sorting Algorithms
+
+3. **Selection Sort** - Finds the minimum and places it in order.  
+   🔹 Time: O(n²)  
+   🔹 Space: O(1)
+
+4. **Insertion Sort** - Builds a sorted list one element at a time.  
+   🔹 Time: O(n²)  
+   🔹 Space: O(1)
+
+5. **Merge Sort** - Recursive divide-and-merge strategy for efficient sorting.  
+   🔹 Time: O(n log n)  
+   🔹 Space: O(n)
+
+---
+
+### 📄 Notes
+
+I've created a well-structured PDF with clear examples and code.
+
+---
+
+### ✅ Outcome
+
+- Learned how to perform both linear and binary searches.
+- Practiced selection, insertion, and merge sort with Python implementations.
+- Understood their respective time and space complexities.
+
+---
+
+### 📅 Next: Day 04 - 
+
